@@ -228,14 +228,14 @@ twf = []
 
 #---------------------[MAIN MENU]---------------------#
 
-    print(f'{BLUE}══════════════════════════════════════════════════════')
+    print(f'══════════════════════════════════════════════════════')
     print(f" {WHITE}TODAY DATE & TIME     :{RED} {ha}/{bu}/{ta} {ORANGE}~> {GREEN} "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
-    print(f"{BLUE}══════════════════════════════════════════════════════")
-    print(f"{RED}[01] {WHITE}RANDOM CLONE PAK  M1")
-    print(f"{RED}[02] {WHITE}RANDOM CLONE BD  M1")
-    print(f"{RED}[03] {WHITE}OWNER FB ID")
-    print(f"{RED}[04] {WHITE}OWNER WHATSAPP")
-    print(f"{RED}[00] {WHITE}EXIT PROGRAM ")
+    print(f"══════════════════════════════════════════════════════")
+    print(f"[01] {WHITE}RANDOM CLONE PAK  M1")
+    print(f"[02] {WHITE}RANDOM CLONE BD  M1")
+    print(f"[03] {WHITE}OWNER FB ID")
+    print(f"[04] {WHITE}OWNER WHATSAPP")
+    print(f"[00] {WHITE}EXIT PROGRAM ")
     print(f"")
     print(f"\033[1;91m========================================================")
     𝙰𝙺𝙰𝚂𝙷 = input("[√] CHOOSE : ")
