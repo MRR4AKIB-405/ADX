@@ -231,7 +231,9 @@ def xyz():
     os.system("play-audio WELCOME_TO_𝙰𝙺𝙰𝚂𝙷_RANDOM_CLONE_TOOL.mp3")
     os.getuid
     
-    os.system("clear");print(logo)
+    os.system("clear")
+print("logo
+
     print('           \x1b[97m[\033[37;41m  M A I N   M E N U   \033[0;m] ')
     print(f"")
     print(f'{BLUE}══════════════════════════════════════════════════════')
@@ -759,7 +761,7 @@ def m(uid,pwx,tl):
 
 
 
-#---------------------[END MENU]---------------------#
+
 if __name__ == '__main__':
     xyz()
 
